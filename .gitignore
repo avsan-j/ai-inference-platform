@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Robot Framework
+log.html
+report.html
+output.xml
+
+# VS Code
+.vscode/

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "I love this",
+    "expected": "Positive sentiment"
+  },
+  {
+    "prompt": "I hate this",
+    "expected": "Negative sentiment"
+  }
+]
